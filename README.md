@@ -3,6 +3,9 @@
 설정(장르·분위기·캐릭터 등)을 바탕으로 AI가 **Scene 단위 그래픽 노블 스토리**를 만들고, Scene마다 **텍스트 수정**과 **이미지 생성**을 할 수 있는 웹앱입니다.  
 데이터는 브라우저 **LocalStorage**에 자동 저장됩니다.
 
+<img width="967" height="882" alt="ainovel" src="https://github.com/user-attachments/assets/e9b27e8e-eae9-4a47-9a1d-9de91bfcd103" />
+
+
 ## 필요 환경
 
 - Node.js 18 이상 권장  
